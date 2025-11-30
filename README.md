@@ -1,4 +1,3 @@
-# freezeria-widget
 # Freezeria Scoops Variable 🍨
 
 This project is a small interactive widget built with the [Hello World CS widget template].  
